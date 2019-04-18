@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.menubar{
+    margin: 0;
+    width: 100%;
+    height: 80px;
+    background: #32b998
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #ebebeb
+}
+
+.menubar img{
+    margin: 0;
+    float: left;
+    margin-left: 65px;
+    padding-top: 50px;
+}
+.menubar h1{
+    margin: 0;
+    font-weight: normal;
+    float: left;
+    margin-left: 20px;
+    padding-top: 70px;
+}
+
+.box_area {
+    width: 480px;
+    height: 680px;
+    margin: 0 auto;
+    background-color: #ffffff
+}
+
+.box_area img{
+    margin: 0;
+    margin-left: 225px;
+    padding-top: 40px;
+}
+
+.box_area input{
+    border: 2px solid #333333;
+    border-radius: 30px;
+    width: 400px;
+    height: 80px;
+    margin: 10px 245px;
+}
+
+.box_area button {
+    margin: 10px 350px;
+    padding: 10px;
+    width: 200px;
+    height: 60px;
+    background: #32b998;
+    color: #fff;
+    border: 2px solid transparent;
+    border-radius: 30px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.box_area button:hover {
+    background: #fff;
+    border-radius: 30px;
+    color: #333;
+    border: 2px solid #333;
+}
+
+.box_area p{
+    margin: 0;
+    float: left;
+    margin-left: 170px;
+    padding-top: 25px;
+    font-weight: 100;
+}
+
+.registbutt img{
+    margin: 10px 10PX;
+    float: left;
+    padding-top: 5px;
+}
